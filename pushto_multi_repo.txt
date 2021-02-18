@@ -1,0 +1,2 @@
+git@gitlab.com:alexntwu/repo1.git
+git@github.com:alexntwu/repo1.git
